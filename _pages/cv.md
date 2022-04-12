@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download CV here](https://chinglamchoi.github.io/cchoi/files/Lui_K_CV.pdf)  
+[Download CV here](https://kennylui.github.io/luikwankin/files/Lui_Kwan_Kin_CV.pdf)  
 
 Education
 ======
