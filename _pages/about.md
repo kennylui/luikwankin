@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Kwan Kin, a final year undergraduate from [CUHK](https://www.cuhk.edu.hk/english/index.html) studying [IERG](https://www.ie.cuhk.edu.hk/programmes/ierg_overview.shtml). I was a part-time project coordinator at Global Technology Integrator Ltd for 6 months.
+I am Kwan Kin, a final year undergraduate from [CUHK](https://www.cuhk.edu.hk/english/index.html) studying [IERG](https://www.ie.cuhk.edu.hk/programmes/ierg_overview.shtml). I have been a part-time project coordinator at Global Technology Integrator Ltd for 6 months.
 
 Academic Interests
 ======
