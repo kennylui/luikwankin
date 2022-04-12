@@ -9,6 +9,7 @@ location: "Hong Kong"
 ---
 
 This is a car renting java application project using MySQL DBMS via JDBC API.
+
 There are 5 data files in total, which are user categories, users, car categories, cars and renting records.
 All of them are stored in txt file format.
 For system fuctions,
