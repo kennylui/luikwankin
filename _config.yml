@@ -11,9 +11,9 @@ title                    : "Lui Kwan Kin"
 title_separator          : "-"
 name                     : &name "Lui Kwan Kin"
 description              : &description "Final year undergraduate at CUHK | Major in Information Engineering"
-url                      : https://kennylui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kennylui.github.io"
+url                      : https://kennylui.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "luikwankin" # the subpath of your site, e.g. "/blog"
+repository               : "kennylui/luikwankin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
