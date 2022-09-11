@@ -16,6 +16,10 @@ Education
 
 Work Experience
 ======
+* Software Engineer
+  * May 2022 - Present
+  * OnePort Limited
+
 * Part-time Project Coordinator
   * Dec 2020 - June 2021
-  * Global Technology Ltd
+  * Global Technology Limited
